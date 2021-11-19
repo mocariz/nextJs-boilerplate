@@ -1,5 +1,6 @@
 {
   "name": "nextJs-boilerplate",
+  "version": "1.0.0",
   "private": true,
   "repository": "git@github.com:mocariz/nextJs-boilerplate.git",
   "author": "Monica Mota Ocariz <mota.ocariz@gmail.com>",
