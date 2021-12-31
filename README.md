@@ -16,13 +16,20 @@ This project uses lot of stuff as:
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
 
+
+## Create new project using the boilerplate
+
+To create a new project using this boilerplate run the command bellow:
+
+```bash
+ yarn create next-app -e https://github.com/mocariz/nextJs-boilerplate
+```
+
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 
